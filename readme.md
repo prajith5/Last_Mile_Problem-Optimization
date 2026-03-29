@@ -1,8 +1,5 @@
 Last Mile Delivery Optimization System
-https://img.shields.io/badge/Python-3.8%252B-blue.svg
-https://img.shields.io/badge/scikit--learn-1.5%252B-orange.svg
-https://img.shields.io/badge/License-MIT-green.svg
-https://img.shields.io/badge/Status-Production%2520Ready-brightgreen.svg
+
 
 Machine Learning powered system for optimizing last-mile delivery operations with 98.1% prediction accuracy and balanced workload distribution
 

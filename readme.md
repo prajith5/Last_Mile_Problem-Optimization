@@ -82,18 +82,6 @@ Folium
 Geospatial analysis tools
 Why This Approach Works
 
-This system is effective because it:
-
-Reduces routing complexity through clustering
-Improves efficiency using greedy optimization
-Scales well for large delivery datasets
-Mimics real-world logistics decision-making
-Future Improvements
-Real-time traffic-aware routing
-Dynamic clustering for live orders
-Reinforcement learning-based optimization
-Mobile application for delivery agents
-Advanced heuristics like 2-opt or genetic algorithms
 
 Installation
 git clone https://github.com/your-username/last-mile-optimization.git
@@ -104,3 +92,6 @@ python main.py
 Conclusion
 
 This project demonstrates how machine learning and heuristic algorithms can be applied to real-world logistics problems to improve efficiency, reduce cost, and optimize delivery operations.
+
+The complete Documentation that includes (decision matrix) link:https://drive.google.com/file/d/1MByooUhCDZ8apD018P3nr-U030weiMnW/view?usp=sharing
+
